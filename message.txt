@@ -1,0 +1,5 @@
+Dear ${PERSON_NAME}, 
+
+{ your message } 
+
+{Regards}

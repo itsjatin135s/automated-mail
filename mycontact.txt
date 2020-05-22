@@ -1,0 +1,2 @@
+{reciver_1_name} {reciver_1_mail_id}
+{reciver_2_name} {reciver_2_mail_id}
